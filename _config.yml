@@ -30,10 +30,10 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://aoco.tech'
 
 github:
-  username: pub-code             # change to your github username
+  username: ilabx             # change to your github username
 
 # twitter:
-#   username: pub-code            # change to your twitter username
+#   username: ilabx            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -97,7 +97,7 @@ comments:
     issue_term:   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: 'pub-code/blog'              # <gh-username>/<repo>
+    repo: 'ilabx/blog'              # <gh-username>/<repo>
     repo_id: 'R_kgDOIyxhcQ'
     category: 'General'
     category_id: 'DIC_kwDOIyxhcc4CUhya'
